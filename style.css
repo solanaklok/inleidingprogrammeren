@@ -3,4 +3,11 @@ body{
     padding: 70px 200px;
   }
 
+button{
+  color: black;
+  border-color: blue;
+  padding: 8px;
+  background-color: white;
+  border-radius: 5px;
+}
 
